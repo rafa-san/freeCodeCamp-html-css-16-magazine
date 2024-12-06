@@ -48,23 +48,23 @@ hr {
 }
 
 .heading {
-  grid-column: 2 / 3;
   display: grid;
+  grid-column: 2 / 3;
   grid-template-columns: repeat(2, 1fr);
   row-gap: 1.5rem;
 }
 
 .text {
   column-width: 25rem;
+  grid-column: 2 / 3;
   font-size: 1.8rem;
   letter-spacing: 0.6px;
   text-align: justify;
-  grid-column: 2 / 3;
 }
 
 .hero {
-  grid-column: 1 / -1;
   position: relative;
+  grid-column: 1 / -1;
 }
 
 .hero-title {
@@ -93,12 +93,12 @@ hr {
 }
 
 .social-icons {
-  font-size: 3rem;
   display: grid;
   align-items: center;
   grid-auto-columns: 1fr;
   grid-auto-flow: column;
   grid-template-columns: repeat(5, 1fr);
+  font-size: 3rem;
 }
 
 .first-paragraph::first-letter {
@@ -124,10 +124,10 @@ hr {
 }
 
 .text-with-images {
-  margin-bottom: 3rem;
   display: grid;
   column-gap: 3rem;
   grid-template-columns: 1fr 2fr;
+  margin-bottom: 3rem;
 }
 
 .lists {
