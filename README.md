@@ -3,7 +3,7 @@
 # Responsive Web Design Certification #16 | Magazine
 
 ## 1️⃣ Objetivo
-Desenvolver uma página no estilo de um **artigo de revista**, combinando o uso de imagens, textos em colunas, ícones e listas. Tudo isso de forma 100% responsiva.
+Desenvolver uma página no estilo "artigo de revista", combinando o uso de imagens, textos em colunas, ícones e listas. Tudo isso de forma 100% responsiva.
 
 ## 2️⃣ Descrição
 Este é o 16º curso da trilha **Responsive Web Design Certification**, com foco no aprendizado do **CSS Grid Layout**.
@@ -34,7 +34,7 @@ Este projeto foi desenvolvido conforme as orientações do curso, sem alteraçõ
 </div>
 
 ## 5️⃣ Créditos
-Agradeço ao freeCodeCamp por oferecer cursos gratuitos de altíssima qualidade, que não apenas ampliaram meus conhecimentos, mas também contribuíram muito para a construção do meu portfólio.
+Agradeço ao **freeCodeCamp** por oferecer cursos gratuitos de altíssima qualidade, que não apenas ampliaram meus conhecimentos, mas também contribuíram muito para a construção do meu portfólio.
 - <a href="https://www.freecodecamp.org/" target="_blank">freeCodeCamp 🔗</a>
 
 ## 6️⃣ Licença
